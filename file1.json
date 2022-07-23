@@ -1,0 +1,12 @@
+{ 
+    "name":"Vaibhav",
+    "age":30,
+    "cloudENG":true,
+    "skills":["AWS","Terraform","Openstack"],
+    "address":{
+        "city":"Mumbai",
+        "state": "MH",
+        "country":"india"
+    }
+
+}
